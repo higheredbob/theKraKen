@@ -37,3 +37,5 @@ Again, thanks to Sugar, Beggeljuse, Faenza, Deviant Art, Nick's awesome Inkscape
 KraKen and I didn't get the attribution right, or you need something from me, please don't hesitate to drop me a line.
 
 ![eKraKen Preview](https://github.com/higheredbob/theKraKen/blob/master/preview.png)
+
+![Krak-tastic Preview](https://github.com/higheredbob/theKraKen/blob/master/krak-tastic-preview.png)
